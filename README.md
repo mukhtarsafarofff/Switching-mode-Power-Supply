@@ -6,6 +6,7 @@
 - ✅ [Testergebnisse](docs/test-report.md)
 ## Build & Flash
 (ENG)
+
 This schematic shows an AC-to-DC switching mode power supply (SMPS).  
 The AC input is first rectified by the bridge rectifier and then smoothed by the bulk capacitor to create a high-voltage DC bus.  
 The UC3842 controller generates switching pulses that drive the IRF740 MOSFET.  
@@ -17,6 +18,7 @@ This design improves efficiency, reduces transformer size, and is widely used in
 
 
 (DE)
+
 Diese Schaltung zeigt ein AC-zu-DC-Schaltnetzteil (SMPS).  
 Die Wechselspannung am Eingang wird zuerst durch den Brückengleichrichter gleichgerichtet und anschließend durch den Siebkondensator zu einer Hochspannungs-Gleichspannung geglättet.  
 Der UC3842-Controller erzeugt Schaltimpulse zur Ansteuerung des IRF740-MOSFETs.  
