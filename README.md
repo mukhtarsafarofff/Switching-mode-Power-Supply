@@ -6,6 +6,8 @@
 - ✅ [Testergebnisse](docs/test-report.md)
 ## Build & Flash
 (ENG)
+This schematic shows an AC-to-DC switching mode power supply (SMPS).  
+The AC input is first rectified by the bridge rectifier and then smoothed by the bulk capacitor to create a high-voltage DC bus.  
 
 
 
